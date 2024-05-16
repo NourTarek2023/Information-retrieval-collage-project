@@ -1,0 +1,27 @@
+stastical : 2
+	    1
+	    3
+file1 ; A B A A C E B E
+file2 ; A B B B B C B B D D
+file3 ; A B C C C D 
+
+boolean
+file1 ; A C A C C 
+file2 ; A C C B 
+file3 ; C 
+file4 ; A B 
+
+A and B ; 2,4
+A or  B ; 1,2,4
+C not A ; 3
+
+cosine  0.75
+
+file1 ; ziko quick brown dog
+
+jaccard  0.25
+
+file1 ; probabilistic models car effictive hi information retrieval tasks
+
+
+
